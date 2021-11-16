@@ -24,7 +24,7 @@ int main(void) {
 
     else // parent 
     {
-        sleep(2);
+        sleep(12);
         printf("gone");
     }
     return 0;
