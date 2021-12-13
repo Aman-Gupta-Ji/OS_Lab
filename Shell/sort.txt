@@ -1,0 +1,8 @@
+evenodd.sh
+ifelse.sh
+myprog1.sh
+myscript.sh
+positive.sh
+sort.txt
+stringcmp.sh
+string.sh
